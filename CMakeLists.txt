@@ -10,7 +10,6 @@ set(CMAKE_C_STANDARD 11)
 ######################################
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/lib/GPIO)
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/lib/LedDriver)
-add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/lib/Timer)
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/lib/util)
 
 ######################################
