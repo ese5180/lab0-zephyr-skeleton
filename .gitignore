@@ -1,0 +1,4 @@
+#Ignore build artifacts expected paths/directories:
+cmake-build-debug
+build
+buildresults
